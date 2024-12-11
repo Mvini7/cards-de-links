@@ -1,0 +1,54 @@
+@media screen and (max-width: 768px) {
+
+    .container {
+        width: 265px;
+    }
+
+    .linkedin button {
+        padding: 1px 112px;
+    }
+
+    .linkedin button h1 {
+        margin-left: 55px;
+    }
+
+    .linkedin i {
+        margin-left: -94px;
+    }
+
+    .github button {
+        padding: 1px 118px;
+    }
+
+    .github button h1 {
+        margin-left: 59px;
+    }
+
+    .github i {
+        margin-left: -100px;
+    }
+
+    .instagram button {
+        padding: 1px 100px;
+    }
+
+    .instagram button h1 {
+        margin-left: 50px;
+    }
+
+    .instagram i {
+        margin-left: -85px;
+    }
+
+    .portifolio button {
+        padding: 1px 103.5px;
+    }
+
+    .portifolio button h1 {
+        margin-left: 50px;
+    }
+
+    .portifolio i {
+        margin-left: -85px;
+    }
+}
