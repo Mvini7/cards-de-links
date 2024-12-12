@@ -22,9 +22,9 @@ Você pode acessar o site através do seguinte link: [Meu Site](https://dev-vini
 - [Boxicons](https://boxicons.com/) - Ícones utilizados nos links
 - [Vercel](https://vercel.com/) - Hospedagem do projeto
 
-## Capturas de Tela
+## INTERFACE
 
-Adicione aqui algumas capturas de tela do seu site para ilustrar as funcionalidades e o design.
+![INTERFACE](interface.jpg)
 
 ## Instalação
 
